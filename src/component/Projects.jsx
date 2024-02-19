@@ -42,18 +42,14 @@ const Projects = () => {
         description: "Stay ahead of the forecast with our Weather App — your go-to solution for real-time weather information. This intuitive application provides accurate weather updates, including temperature, humidity, wind speed, and more, for any location worldwide. Built using HTML, CSS, and JavaScript, with data fetched from a weather API, our Weather App offers a sleek and responsive design for a seamless user experience. Whether you're planning a trip or just staying informed about the local weather, our app has you covered. Explore the world of meteorology with our Weather App today!",
         techStack: "HTML|CSS|JavaScript",
         repoLink: "https://github.com/your-username/weather-app",
-        techStack: "HTML|CSS|JavaScript|Node.js|Git",
-        repoLink: "https://github.com/khushboo8252/DOM-Assignment/tree/main/weather-2",
-        websiteLink: "https://656b270ccf0cf53eeb49ed25--singular-sable-ab5788.netlify.app/",
+       websiteLink: "https://656b270ccf0cf53eeb49ed25--singular-sable-ab5788.netlify.app/",
         imageSrc: "image/Project5.png"
       },
       {
         title: "TATA 1mg",
-        description: "Stay ahead of the forecast with our Weather App — your go-to solution for real-time weather information. This intuitive application provides accurate weather updates, including temperature, humidity, wind speed, and more, for any location worldwide. Built using HTML, CSS, and JavaScript, with data fetched from a weather API, our Weather App offers a sleek and responsive design for a seamless user experience. Whether you're planning a trip or just staying informed about the local weather, our app has you covered. Explore the world of meteorology with our Weather App today!",
-        techStack: "HTML|CSS|JavaScript|React|Node.js|MongoDB|Express.js|Git",
+        description: "TATA 1mg is an online healthcare platform that provides users with access to a wide range of healthcar products, services and information.",
         repoLink: "https://github.com/khushboo8252/Project-1mg/tree/main/Project-2",
         techStack: "HTML|CSS|JavaScript|Node.js|Git|React|Node.js|MongoDB|Express.js",
-        repoLink: "https://github.com/khushboo8252/Project-1mg/tree/main/Project-2",
         websiteLink: "https://65c6fe92cf29b62c62ea1151--silver-lamington-c305ff.netlify.app/",
         imageSrc: "image/Project6.png"
       },
