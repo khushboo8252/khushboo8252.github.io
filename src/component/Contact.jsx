@@ -83,7 +83,7 @@ const Contact = () => {
         </div>
         </div>
         <div className='contact-end'>
-          <h4>Designed and build by ❤️Khushboo Kumari, 2023 All right reserved.</h4>
+          <h4>Designed and build by Khushboo Kumari, 2024 All right reserved.</h4>
         </div>
       </div>
      
